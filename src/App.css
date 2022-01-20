@@ -12,6 +12,14 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+a{
+  text-decoration: none;
+  color: #000;
+}
+a:hover{
+  text-decoration: underline;
+  color: #00f;
+}
 
 .App-header {
   background-color: #282c34;
