@@ -1,9 +1,9 @@
-import React from 'react';
+// import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+// import App from './App';
+import Loop from './Loop';
 
 ReactDOM.render(
-  <App />,
-document.getElementById('root')
+  <Loop />, document.getElementById('root')
 );
 
